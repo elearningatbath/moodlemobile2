@@ -1,6 +1,6 @@
 {
     "about": "About",
-    "appname": "Moodle Mobile {{version}}",
+    "appname": "University of Bath Moodle Mobile {{2.4.2}}",
     "appready": "App ready",
     "cacheexpirationtime": "Cache expiration time (miliseconds)",
     "cordovadevicemodel": "Cordova Device model",

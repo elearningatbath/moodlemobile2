@@ -16,7 +16,7 @@
  */
 
 // Bar content.
-$bar-content-bg: #f70 !default;
+$bar-content-bg: #606A86 !default;
 $bar-content-border: transparent !default;
 $bar-content-text: #fff !default;
 
@@ -333,3 +333,9 @@ mm-navigation-bar {
     /* show the checkmark icon when its checked */
     visibility: visible;
   }
+
+/*UOB Custom Styles*/
+#moodle-logo-container{margin: 0px auto;
+  height: 100px;
+  margin-top: 5em;
+}
